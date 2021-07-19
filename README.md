@@ -1,5 +1,5 @@
 ### Hi there, I'm Bhanu Prakash Reddy [Portfolio][website] 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/BhanuPr67861572?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BhanuPr67861572?s=08 BhanuPr67861572&screen_name=BhanuPr67861572)
+[![Twitter Follow][(https://img.shields.io/twitter/follow/BhanuPr67861572?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
 ## I'm a Student and upcoming Developer !!
 
@@ -11,9 +11,7 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 <br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

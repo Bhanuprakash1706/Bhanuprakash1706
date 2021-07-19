@@ -1,5 +1,5 @@
 ### Hi there, I'm Bhanu Prakash Reddy [Portfolio][website] 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/BhanuPr67861572?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer= https://twitter.com/BhanuPr67861572?s=08)
+![Twitter Follow](https://img.shields.io/twitter/follow/BhanuPr67861572?color=1DA1F2&logo=twitter&style=for-the-badge)
 ## I'm a Student and upcoming Developer !!
 
 - 🌱 I’m currently learning everything 🤣
